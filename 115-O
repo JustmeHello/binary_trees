@@ -1,0 +1,3 @@
+    Inserting the value n: O(log n) on average (O(n) in worst case if the tree becomes unbalanced)
+    Removing the node with the value n: O(log n) on average (O(n) in worst case if the tree becomes unbalanced)
+    Searching for a node in a BST of size n: O(log n) on average (O(n) in worst case if the tree becomes unbalanced)
